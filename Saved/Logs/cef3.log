@@ -1,0 +1,17 @@
+[12984:800:0609/092430.887:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12984:12480:0609/092430.954:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[12984:800:0609/092430.979:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[4916:20720:0609/092438.009:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-F42BDF09A03E460F6618604D58F07E0D will be ignored
+[12984:9096:0609/092438.499:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[12984:800:0609/092438.601:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[12984:800:0609/092438.603:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[12984:800:0609/092438.603:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[12984:800:0609/092438.603:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[12984:9096:0609/092438.614:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[23108:22604:0609/092445.858:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[23108:22604:0609/092446.181:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[23108:22672:0609/092446.215:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[23108:22672:0609/092446.217:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[23108:22672:0609/092446.217:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[14736:9196:0609/092656.298:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[14736:9196:0609/092656.299:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
